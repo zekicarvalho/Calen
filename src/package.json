@@ -9,7 +9,7 @@
     "package": "asar pack textim-editor-linux-x64/resources/app textim-editor-linux-x64/resources/app.asar",
     "build": "electron-packager . textim-editor --ignore=node_modules/electron-* --platform=linux --arch=x64 --version=0.37.8"
   },
-  "author": "Zeki Carvalho",
+  "author": "Zeki Technologies",
   "license": "ISC",
   "devDependencies": {
     "asar": "^0.11.0",

@@ -6,7 +6,6 @@ const BrowserWindow = electron.BrowserWindow;  // Module to create native browse
 
 
 var mainWindow = null;
-
 app.on('window-all-closed', function() {
 	if (process.platform != 'darwin') {
 		app.quit();
