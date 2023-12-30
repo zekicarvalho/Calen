@@ -1,6 +1,6 @@
 {
-  "name": "Eletrogenda",
-  "productName": "Eletrogenda",
+  "name": "Calen",
+  "productName": "Calen",
   "version": "0.1.0",
   "description": "Agenda para contatos de email e telefone",
   "main": "main.js",
